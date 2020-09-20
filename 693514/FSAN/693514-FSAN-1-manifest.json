@@ -1,0 +1,30 @@
+{
+    "arrangement": "arranged",
+    "body_part": "full body",
+    "body_type": "average",
+    "created": "2020-06",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "no",
+    "id": "693514",
+    "make_solid_args": {
+        "code_h_offset": -8,
+        "code_scale": 0.55,
+        "code_top": true,
+        "code_v_offset": 8,
+        "crop": 0.0,
+        "solid": true,
+        "surface_low_len": 0.2,
+        "surface_med_len": 0.1,
+        "text_depth": 0.3,
+        "url_side": true
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "tags": [
+        "pregnancy-week-39",
+        "underwear"
+    ],
+    "version": 1
+}

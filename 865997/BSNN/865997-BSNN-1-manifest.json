@@ -1,0 +1,27 @@
+{
+    "arrangement": "natural",
+    "body_part": "breast",
+    "body_type": "average",
+    "created": "2019-09",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "no",
+    "id": "865997",
+    "links": [],
+    "make_solid_args": {
+        "code_bottom": true,
+        "code_h_offset": 0.5,
+        "code_scale": 0.62,
+        "code_v_offset": 6,
+        "flip_walls": false,
+        "url_bottom": true,
+        "url_h_offset": 0.5,
+        "url_v_offset": 0
+    },
+    "other": {},
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "version": 1,
+    "tags": ["nipple-piercing"]
+}

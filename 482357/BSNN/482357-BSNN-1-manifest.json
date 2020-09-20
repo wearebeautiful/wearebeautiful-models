@@ -1,0 +1,28 @@
+{
+    "arrangement": "natural",
+    "body_part": "breast",
+    "body_type": "thin",
+    "created": "2019-09",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "vaginal",
+    "history": [
+        "pregnancy",
+        "episiotomy",
+        "breastfed"
+    ],
+    "id": "482357",
+    "make_solid_args": {
+        "code_bottom": true,
+        "code_scale": 0.7,
+        "code_v_offset": 6,
+        "extrude": 5,
+        "url_bottom": true,
+        "url_scale": 0.7,
+        "url_v_offset": -1
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "version": 1
+}

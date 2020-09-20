@@ -1,0 +1,23 @@
+{
+    "arrangement": "retracted",
+    "body_part": "penis",
+    "body_type": "average",
+    "created": "2019-09",
+    "excited": "not excited",
+    "gender": "man",
+    "given_birth": "no",
+    "id": "507391",
+    "links": [],
+    "make_solid_args": {
+        "code_h_offset": 10,
+        "crop": 0.03,
+        "flip_walls": false,
+        "url_h_offset": -11
+    },
+    "other": {},
+    "pose": "lying",
+    "released": "2020-09-19",
+    "sex": "male",
+    "tags": [],
+    "version": 1
+}

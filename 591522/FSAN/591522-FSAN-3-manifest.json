@@ -1,0 +1,37 @@
+{
+    "arrangement": "arranged",
+    "body_part": "full body",
+    "body_type": "average",
+    "created": "2020-01",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "no",
+    "history": [
+        "pregnancy"
+    ],
+    "id": "591522",
+    "make_solid_args": {
+        "code_h_offset": 2,
+        "code_scale": 0.75,
+        "code_top": true,
+        "code_v_offset": 4,
+        "crop": 0.0,
+        "solid": true,
+        "surface_low_len": 0.3,
+        "surface_med_len": 0.2,
+        "text_depth": 0.3,
+        "url_h_offset": -1,
+        "url_scale": 0.56,
+        "url_top": true,
+        "url_v_offset": 1.6
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "tags": [
+        "pregnancy-week-19-27",
+        "compound-model"
+    ],
+    "version": 3,
+    "comment": "This compound model of a pregnant woman was created by combining two scans: The left side when the woman was 19 weeks pregnant and the right side when the woman was 27 weeks pregnant. Between the two sides you can clearly see how her belly has grown over 8 weeks."
+}

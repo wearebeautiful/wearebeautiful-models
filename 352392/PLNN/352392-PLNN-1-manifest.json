@@ -1,0 +1,22 @@
+{
+    "arrangement": "natural",
+    "body_part": "penis",
+    "body_type": "overweight",
+    "created": "2020-09",
+    "excited": "not excited",
+    "gender": "man",
+    "given_birth": "no",
+    "id": "352392",
+    "other": {},
+    "pose": "lying",
+    "released": "2020-09-19",
+    "sex": "male",
+    "tags": [
+        "scrotum-temperature-change", "penis-temperature-change","compound-model"
+    ],
+    "make_solid_args": {
+        "flip_walls" : false
+    },
+    "version": 1,
+    "comment": "This model shows the size and shape change of the scrotum and the penis in different temperatures, the left side of this model being cold and the right side being warm. For this compound scan, the human model was first submerged in cold water for 10 minutes to create the left half of the 3D model, then the human model was submerged in hot water for 10 minutes to create the right half of the model.  An ice pack (frozen eierspätzle to be exact) and blow dryers were used to keep the temperature as stable as possible for the duration of the scans.  The alignment of the penis and the scrotum was slightly off for the second (warm) scan, which makes the penis look thicker then it actually was."
+}

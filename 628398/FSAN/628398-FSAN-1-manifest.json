@@ -1,0 +1,25 @@
+{
+    "arrangement": "arranged",
+    "body_part": "full body",
+    "body_type": "average",
+    "created": "2020-01",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "no",
+    "id": "628398",
+    "make_solid_args": {
+        "code_top": true,
+        "code_v_offset": 5.8,
+        "crop": 0.0,
+        "solid": true,
+        "surface_low_len": 0.35,
+        "surface_med_len": 0.22,
+        "text_depth": 0.3,
+        "url_top": true,
+        "url_v_offset": 2.5
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "version": 1
+}

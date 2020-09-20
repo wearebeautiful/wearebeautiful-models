@@ -1,0 +1,23 @@
+{
+    "arrangement": "natural",
+    "body_part": "penis",
+    "body_type": "average",
+    "created": "2020-02",
+    "excited": "not excited",
+    "gender": "man",
+    "given_birth": "no",
+    "id": "554268",
+    "links": [],
+    "make_solid_args": {
+        "surface_low_len": 0.53,
+        "surface_med_len": 0.33
+    },
+    "other": {},
+    "pose": "lying",
+    "released": "2020-09-19",
+    "sex": "male",
+    "tags": [
+        "body-hair"
+    ],
+    "version": 1
+}

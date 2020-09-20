@@ -1,0 +1,22 @@
+{
+    "arrangement": "natural",
+    "body_part": "penis",
+    "body_type": "average",
+    "created": "2019-09",
+    "excited": "not excited",
+    "gender": "man",
+    "given_birth": "no",
+    "id": "507391",
+    "links": [],
+    "make_solid_args": {
+        "flip_walls": false,
+        "surface_low_len": 0.55,
+        "surface_med_len": 0.35
+    },
+    "other": {},
+    "pose": "lying",
+    "released": "2020-09-19",
+    "sex": "male",
+    "tags": [],
+    "version": 1
+}

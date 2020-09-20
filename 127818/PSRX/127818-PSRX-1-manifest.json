@@ -1,0 +1,21 @@
+{
+   "arrangement" : "retracted",
+   "other" : {},
+   "pose" : "standing",
+   "created" : "2020-09",
+   "given_birth" : "no",
+   "body_type" : "thin",
+   "excited" : "excited",
+   "body_part" : "penis",
+   "gender" : "man",
+   "links" : [],
+   "released" : "2020-09-11",
+   "id" : "127818",
+   "version" : 1,
+   "sex" : "male",
+   "tags" : [],
+   "make_solid_args": {
+       "code_scale": 0.53,
+       "code_h_offset": -40
+   }
+}

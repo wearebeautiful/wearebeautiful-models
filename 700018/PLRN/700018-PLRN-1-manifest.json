@@ -1,0 +1,20 @@
+{
+    "arrangement": "retracted",
+    "body_part": "penis",
+    "body_type": "average",
+    "created": "2019-11",
+    "excited": "not excited",
+    "gender": "man",
+    "given_birth": "no",
+    "id": "700018",
+    "make_solid_args": {
+        "input_surface_errors": true,
+        "output_solid_errors": true,
+        "surface_low_len": 0.53,
+        "surface_med_len": 0.33
+    },
+    "pose": "lying",
+    "released": "2020-09-19",
+    "sex": "male",
+    "version": 1
+}

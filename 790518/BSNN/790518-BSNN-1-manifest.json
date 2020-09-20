@@ -1,0 +1,22 @@
+{
+    "arrangement": "natural",
+    "body_part": "breast",
+    "body_type": "average",
+    "created": "2019-05",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "no",
+    "id": "790518",
+    "links": [],
+    "make_solid_args": {
+        "code_top": true,
+        "code_v_offset": 8,
+        "url_top": true,
+        "url_v_offset": 1
+    },
+    "other": {},
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "version": 1
+}

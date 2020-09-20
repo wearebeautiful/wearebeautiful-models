@@ -1,0 +1,27 @@
+{
+    "arrangement": "natural",
+    "body_part": "upper body",
+    "body_type": "average",
+    "created": "2020-01",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "no",
+    "history": "",
+    "id": "224629",
+    "make_solid_args": {
+        "code_bottom": true,
+        "code_h_offset": -1,
+        "code_scale": 0.54,
+        "code_v_offset": 23,
+        "extrude": 5,
+        "solid": true,
+        "url_bottom": true,
+        "url_h_offset": -1,
+        "url_scale": 0.5,
+        "url_v_offset": 17
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "version": 1
+}

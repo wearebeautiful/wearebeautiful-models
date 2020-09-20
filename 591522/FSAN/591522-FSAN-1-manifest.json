@@ -1,0 +1,31 @@
+{
+    "arrangement": "arranged",
+    "body_part": "full body",
+    "body_type": "average",
+    "created": "2020-01",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "no",
+    "history": [
+        "pregnancy"
+    ],
+    "id": "591522",
+    "make_solid_args": {
+        "code_h_offset": 0,
+        "code_scale": 0.7,
+        "code_top": true,
+        "code_v_offset": 2.5,
+        "crop": 0.0,
+        "solid": true,
+        "surface_low_len": 0.3,
+        "surface_med_len": 0.2,
+        "text_depth": 0.3
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "tags": [
+        "pregnancy-week-19"
+    ],
+    "version": 1
+}

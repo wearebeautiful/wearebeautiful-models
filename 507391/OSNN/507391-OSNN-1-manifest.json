@@ -1,0 +1,26 @@
+{
+    "arrangement": "natural",
+    "body_part": "buttocks",
+    "body_type": "average",
+    "created": "2019-09",
+    "excited": "not excited",
+    "gender": "man",
+    "given_birth": "no",
+    "history": "",
+    "id": "507391",
+    "make_solid_args": {
+        "code_scale": 0.6,
+        "code_top": true,
+        "code_v_offset": 8,
+        "crop": 0.0,
+        "extrude": 1.0,
+        "flip_walls": false,
+        "url_scale": 0.6,
+        "url_top": true,
+        "url_v_offset": 1
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "male",
+    "version": 1
+}

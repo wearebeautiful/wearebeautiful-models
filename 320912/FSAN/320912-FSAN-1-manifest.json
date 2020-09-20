@@ -1,0 +1,28 @@
+{
+    "arrangement": "arranged",
+    "body_part": "full body",
+    "body_type": "average",
+    "created": "2020-01",
+    "excited": "not excited",
+    "gender": "non binary",
+    "given_birth": "no",
+    "id": "320912",
+    "make_solid_args": {
+        "code_scale": 0.66,
+        "code_top": true,
+        "code_v_offset": 12.0,
+        "crop": 0.0,
+        "solid": true,
+        "surface_low_len": 0.3,
+        "surface_med_len": 0.2,
+        "text_depth": 0.3,
+        "url_scale": 0.66,
+        "url_top": true,
+        "url_v_offset": 9.1
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "other",
+    "sex_comment": "questioning woman",
+    "version": 1
+}

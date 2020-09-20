@@ -1,0 +1,41 @@
+{
+    "arrangement": "natural",
+    "body_part": "upper body",
+    "body_type": "average",
+    "comment": "Personal message from the model: Always ask your Doctor about the full range of side effects of your treatment. Don\u2019t be embarrassed to ask questions. With chemotherapy I lost the ability to \u201cget wet\u201d when aroused. The reconstruction of my breast (after the mastectomy) left me with differently sized breasts. The possibility of both things happening were not mentioned before the treatment. I participated in this project, to show the effects of a mastectomy and to raise awareness about the right of patients to know all the side effects of the treatment or medication.",
+    "created": "2020-02",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "vaginal",
+    "history": [
+        "pregnancy",
+        "breastfed",
+        "mastectomy"
+    ],
+    "id": "755536",
+    "links": [
+        "https://en.wikipedia.org/wiki/Mastectomy",
+        "https://en.wikipedia.org/wiki/Chemotherapy"
+    ],
+    "make_solid_args": {
+        "code_bottom": true,
+        "code_h_offset": 1,
+        "code_scale": 0.58,
+        "code_v_offset": 22,
+        "crop": 0.0,
+        "solid": true,
+        "text_depth": 0.3,
+        "url_bottom": true,
+        "url_h_offset": 1,
+        "url_scale": 0.58,
+        "url_v_offset": 16
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "tags": [
+        "chemo-therapy",
+        "cancer"
+    ],
+    "version": 1
+}

@@ -1,0 +1,28 @@
+{
+    "arrangement": "natural",
+    "body_part": "breast",
+    "body_type": "thin",
+    "created": "2019-09",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "vaginal",
+    "id": "238112",
+    "links": [],
+    "make_solid_args": {
+        "code_bottom": true,
+        "code_h_offset": 2,
+        "code_scale": 0.68,
+        "code_v_offset": 6,
+        "extrude": 5,
+        "surface_low_len": 0.3,
+        "surface_med_len": 0.5,
+        "url_bottom": true,
+        "url_h_offset": 2,
+        "url_scale": 0.65
+    },
+    "other": {},
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "version": 1
+}

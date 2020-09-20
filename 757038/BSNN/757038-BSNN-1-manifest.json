@@ -1,0 +1,27 @@
+{
+    "arrangement": "natural",
+    "body_part": "breast",
+    "body_type": "average",
+    "created": "2019-05",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "no",
+    "id": "757038",
+    "links": [],
+    "make_solid_args": {
+        "code_bottom": true,
+        "code_scale": 0.64,
+        "code_v_offset": 6.5,
+        "input_surface_errors": true,
+        "output_solid_errors": true,
+        "surface_low_len": 0.38,
+        "surface_med_len": 0.25,
+        "url_bottom": true
+    },
+    "other": {},
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "tags": [],
+    "version": 1
+}

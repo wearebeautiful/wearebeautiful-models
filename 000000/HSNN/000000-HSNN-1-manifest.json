@@ -1,0 +1,29 @@
+{
+    "arrangement": "natural",
+    "body_part": "hand",
+    "body_type": "average",
+    "created": "2020-03",
+    "excited": "not excited",
+    "gender": "other",
+    "given_birth": "no",
+    "id": "000000",
+    "make_solid_args": {
+        "code_h_offset": 13,
+        "code_left": true,
+        "code_scale": 0.62,
+        "code_v_offset": 33,
+        "crop": 0,
+        "solid": true,
+        "surface_low_len": 0.85,
+        "surface_med_len": 0.6,
+        "url_h_offset": 11,
+        "url_left": true,
+        "url_scale": 0.6,
+        "url_v_offset": 26
+    },
+    "other": {},
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "other",
+    "version": 1
+}

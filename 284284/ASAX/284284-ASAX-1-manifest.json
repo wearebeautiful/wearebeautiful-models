@@ -1,0 +1,26 @@
+{
+    "arrangement": "arranged",
+    "body_part": "anatomical",
+    "body_type": "average",
+    "created": "2019-09",
+    "excited": "excited",
+    "gender": "man",
+    "given_birth": "no",
+    "id": "284284",
+    "make_solid_args": {
+        "code_bottom": true,
+        "code_v_offset": 61,
+        "crop": 0,
+        "solid": true,
+        "surface_low_len": 0.75,
+        "surface_med_len": 0.55,
+        "url_bottom": true,
+        "url_v_offset": 50
+    },
+    "other": {},
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "other",
+    "sex_comment": "Finger",
+    "version": 1
+}

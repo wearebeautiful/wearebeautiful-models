@@ -1,0 +1,24 @@
+{
+    "arrangement": "natural",
+    "body_part": "buttocks",
+    "body_type": "average",
+    "created": "2019-09",
+    "excited": "not excited",
+    "gender": "woman",
+    "given_birth": "vaginal",
+    "history": [
+        "pregnancy",
+        "episiotomy",
+        "breastfed"
+    ],
+    "id": "453703",
+    "make_solid_args": {
+        "flip_walls": false,
+        "text_depth": 0.3
+    },
+    "other": {},
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "female",
+    "version": 1
+}

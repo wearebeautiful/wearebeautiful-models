@@ -1,0 +1,23 @@
+{
+    "arrangement": "natural",
+    "body_part": "penis",
+    "body_type": "average",
+    "created": "2019-05",
+    "excited": "not excited",
+    "gender": "man",
+    "given_birth": "no",
+    "id": "689147",
+    "links": [],
+    "make_solid_args": {
+        "input_surface_errors": true,
+        "solid": true,
+        "surface_low_len": 0.55,
+        "surface_med_len": 0.35
+    },
+    "other": {},
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "male",
+    "tags": [],
+    "version": 1
+}

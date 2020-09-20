@@ -1,0 +1,29 @@
+{
+    "arrangement": "arranged",
+    "body_part": "hand",
+    "body_type": "average",
+    "created": "2020-02",
+    "excited": "excited",
+    "gender": "man",
+    "given_birth": "no",
+    "id": "694420",
+    "make_solid_args": {
+        "code_floor": true,
+        "code_h_offset": -54.5,
+        "code_scale": 0.38,
+        "code_v_offset": 6,
+        "crop": 0,
+        "solid": true,
+        "surface_low_len": 0.68,
+        "surface_med_len": 0.45,
+        "url_floor": true,
+        "url_h_offset": -54.5,
+        "url_scale": 0.36,
+        "url_v_offset": -4
+    },
+    "other": {},
+    "pose": "sitting",
+    "released": "2020-09-19",
+    "sex": "male",
+    "version": 1
+}

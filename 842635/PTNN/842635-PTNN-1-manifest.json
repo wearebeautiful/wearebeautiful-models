@@ -1,0 +1,28 @@
+{
+    "arrangement": "natural",
+    "body_part": "penis",
+    "body_type": "average",
+    "created": "2020-06",
+    "excited": "not excited",
+    "gender": "man",
+    "given_birth": "no",
+    "id": "842635",
+    "links": [],
+    "make_solid_args": {
+        "code_h_offset": 11,
+        "code_scale": 0.65,
+        "crop": 0.0,
+        "surface_low_len": 0.55,
+        "surface_med_len": 0.35,
+        "url_h_offset": -12
+    },
+    "other": {},
+    "pose": "sitting",
+    "released": "2020-09-19",
+    "sex": "male",
+    "tags": [
+        "body-hair",
+        "pubic-hair"
+    ],
+    "version": 1
+}

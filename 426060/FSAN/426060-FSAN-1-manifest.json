@@ -1,0 +1,30 @@
+{
+    "arrangement": "arranged",
+    "body_part": "full body",
+    "body_type": "average",
+    "created": "2020-02",
+    "excited": "not excited",
+    "gender": "other",
+    "gender_comment": "non-binary",
+    "given_birth": "no",
+    "id": "426060",
+    "make_solid_args": {
+        "code_h_offset": -2,
+        "code_scale": 0.6,
+        "code_top": true,
+        "code_v_offset": 4.6,
+        "crop": 0.0,
+        "solid": true,
+        "surface_low_len": 0.2,
+        "surface_med_len": 0.1,
+        "text_depth": 0.3,
+        "url_h_offset": -1.8,
+        "url_scale": 0.6,
+        "url_top": true,
+        "url_v_offset": 2.5
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "other",
+    "version": 1
+}

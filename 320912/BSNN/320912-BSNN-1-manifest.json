@@ -1,0 +1,24 @@
+{
+    "arrangement": "natural",
+    "body_part": "breast",
+    "body_type": "average",
+    "created": "2020-01",
+    "excited": "not excited",
+    "gender": "non binary",
+    "given_birth": "no",
+    "id": "320912",
+    "make_solid_args": {
+        "code_bottom": true,
+        "code_scale": 0.66,
+        "code_v_offset": 6,
+        "extrude": 5,
+        "flip_walls": false,
+        "url_bottom": true,
+        "url_scale": 0.65
+    },
+    "pose": "standing",
+    "released": "2020-09-19",
+    "sex": "other",
+    "sex_comment": "questioning woman",
+    "version": 1
+}
