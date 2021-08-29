@@ -26,6 +26,11 @@ genitals and parts of or whole human bodies. These models are not intended
 to be pornographic in nature -- we work hard to keep these models educational,
 free from pornographic contexts. 
 
+No copyrights on any content!
+-----------------------------
+
+We retain no copyrights on any content. Everthing is released with the CC0
+license. ( https://creativecommons.org/share-your-work/public-domain/cc0/ )
 
 GitHub community standards
 --------------------------
